@@ -28,10 +28,22 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
+<img width="1741" height="890" alt="image" src="https://github.com/user-attachments/assets/724d9600-bca9-46d8-b515-2477646835eb" />
+
+<img width="1682" height="881" alt="image" src="https://github.com/user-attachments/assets/749583e5-2e39-4389-bd39-3119355ca5c9" />
 
 REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
+LINE REGULATION 
+![line regu](https://github.com/user-attachments/assets/95ebca35-81ce-4241-a3a3-e6067d9be37b)
+LOAD REGULATION
+![loadregu](https://github.com/user-attachments/assets/cc38021a-291b-4b37-9e66-db8929fcf135)
+TABULATION 
+LINE 
+![line](https://github.com/user-attachments/assets/5512b7ee-4bb0-4f75-8664-dcc18a80292b)
+LOAD
+![loadcc](https://github.com/user-attachments/assets/e6c43e81-7848-4ce7-afb6-d0ad486e69fd)
 
 PRECAUTIONS:
 
